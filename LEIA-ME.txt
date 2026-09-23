@@ -1,0 +1,14 @@
+# Curso IA PublicSoft · Aula 2
+
+Abra `index.html` no navegador (Chrome / Edge).
+
+- `apoio.html` — material de apoio (seções, downloads, lab, ajuda)
+- `apresentacao.html` — slides + modo apresentação
+- `conteudo.js` — conteúdo compartilhado
+- `estilos.css` / `estilos-aula.css` — tema PublicSoft
+- `assets/` — logo, ilustrações e QR codes
+
+Atalhos na apresentação: ← → Espaço · Esc · F (tela cheia)
+
+Tema: Chat responde · agente age. Caminho gratuito: Hermes + Ollama.
+Windows Hermes: `iex (irm https://hermes-agent.nousresearch.com/install.ps1)` ou `ollama launch hermes`.
