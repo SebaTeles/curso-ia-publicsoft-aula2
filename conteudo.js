@@ -110,7 +110,7 @@ window.CURSO_AULA2 = {
       nome: "Hermes Agent",
       lead: "Agente gratuito com Ollama",
       desc: "Caminho principal grátis: baixa Hermes, conecta ao Ollama e lança com um comando.",
-      url: "https://github.com/NousResearch/hermes-agent",
+      url: "https://hermes-agent.nousresearch.com/",
       docs: "https://docs.ollama.com/integrations/hermes",
       docsWin: "https://hermes-agent.nousresearch.com/docs/user-guide/windows-native",
       install: "https://hermes-agent.nousresearch.com/install.sh",
